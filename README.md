@@ -6,68 +6,81 @@ It serves as a student-level practice project to learn and apply Python librarie
 
 <h3> Objectives</h3>
 
-Display Lunch and Dinner time slots dynamically.
+<ul>
+  <li>Display Lunch and Dinner time slots dynamically.</li>
 
-Manage billing details like total cost and itemized summary.
+  <li>Manage billing details like total cost and itemized summary.</li>
 
-Use Python libraries to perform basic data processing.
+  <li>Use Python libraries to perform basic data processing.</li>
 
-Practice real-world problem-solving using Python in a Jupyter Notebook environment.
+  <li>Practice real-world problem-solving using Python in a Jupyter Notebook environment.</li>
+</ul>
 
 <h3>Technologies Used</h3>
 
-Python 3.x
+<ul>
+  <li>Python 3.x</li>
 
-Jupyter Notebook
+  <li>Jupyter Notebook</li>
 
-Pandas – for data handling
+  <li>Pandas – for data handling</li>
 
-Datetime – for managing meal timings
+  <li>Datetime – for managing meal timings</li>
 
-Matplotlib – for optional visualization
+  <li>Matplotlib – for optional visualization</li>
 
-NumPy – for numeric operations
+  <li>NumPy – for numeric operations</li>
+</ul>
 
 <h3> Installation & Setup</h3>
 
-Clone the repository:
+<ul>
+  <li>Clone the repository:</li>
 
-git clone https://github.com/ankush-kumar10/basic_project-.git
-cd basic_project-
-
-
-Install required libraries:
-
-pip install pandas numpy matplotlib
+  git clone https://github.com/ankush-kumar10/basic_project-.git
+  cd basic_project-
 
 
-Open the notebook:
+  <li>Install required libraries:</li>
+  
+  <li>pip install pandas numpy matplotlib</li>
 
-jupyter notebook datafile.ipynb
+
+  <li>Open the notebook:</li>
+
+  <li>jupyter notebook datafile.ipynb</li>
+<ul>  
 
 <h3> How It Works</h3>
 
-The notebook defines fixed time intervals for Lunch and Dinner.
+<ul>
+  <li>The notebook defines fixed time intervals for Lunch and Dinner.</li>
+</ul>
 
-Billing information is calculated automatically based on item quantities and prices.
+  <li>Billing information is calculated automatically based on item quantities and prices.</li>
+</ul>
 
-Users can easily edit or extend data for more menu items.
+  <li>Users can easily edit or extend data for more menu items.</li>
+</ul>
 
 <h3> Example Output</h3>
-Meal Type	Start Time	End Time
-Lunch	12:00 PM	03:00 PM
-Dinner	07:00 PM	10:00 PM
+<ul>
+  <li>Meal Type	Start Time	End Time</li>
+  <li>Lunch	12:00 PM	03:00 PM</li>
+  <li>Dinner	07:00 PM	10:00 PM</li>
+</ul>
 
 <h3> Learning Outcomes</h3>
 
-Understanding of Python basics in a practical context
+<ul>
+  <li>Understanding of Python basics in a practical context</li>
 
-Working with time and date using datetime
+  <li>Working with time and date using datetime</li>
 
-Practicing data manipulation using pandas
+  <li>Practicing data manipulation using pandas</li>
 
-Structuring small-scale projects in Jupyter Notebook
-
+  <li>Structuring small-scale projects in Jupyter Notebook</li>
+</ul>
 
 <h3> Author</h3>
 
