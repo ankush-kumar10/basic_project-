@@ -1,10 +1,10 @@
-<h3> Hotel Billing and Time Management — Basic Python Project</h3>
-<h4> Overview</h4>
+<h1> Hotel Billing and Time Management — Basic Python Project</h1>
+<h3> Overview</h3>
 
 This project is a basic Python notebook created to demonstrate how to manage and display hotel meal timings (Lunch & Dinner) and handle billing details efficiently.
 It serves as a student-level practice project to learn and apply Python libraries for data handling, time management, and simple calculations.
 
-<h4> Objectives</h4>
+<h3> Objectives</h3>
 
 Display Lunch and Dinner time slots dynamically.
 
@@ -14,7 +14,7 @@ Use Python libraries to perform basic data processing.
 
 Practice real-world problem-solving using Python in a Jupyter Notebook environment.
 
-<h4>Technologies Used</h4>
+<h3>Technologies Used</h3>
 
 Python 3.x
 
@@ -28,7 +28,7 @@ Matplotlib – for optional visualization
 
 NumPy – for numeric operations
 
-<h4> Installation & Setup</h4>
+<h3> Installation & Setup</h3>
 
 Clone the repository:
 
@@ -45,7 +45,7 @@ Open the notebook:
 
 jupyter notebook datafile.ipynb
 
-<h4> How It Works</h4>
+<h3> How It Works</h3>
 
 The notebook defines fixed time intervals for Lunch and Dinner.
 
@@ -53,12 +53,12 @@ Billing information is calculated automatically based on item quantities and pri
 
 Users can easily edit or extend data for more menu items.
 
-<h4> Example Output</h4>
+<h3> Example Output</h3>
 Meal Type	Start Time	End Time
 Lunch	12:00 PM	03:00 PM
 Dinner	07:00 PM	10:00 PM
 
-<h4> Learning Outcomes</h4>
+<h3> Learning Outcomes</h3>
 
 Understanding of Python basics in a practical context
 
@@ -69,7 +69,7 @@ Practicing data manipulation using pandas
 Structuring small-scale projects in Jupyter Notebook
 
 
-<h4> Author</h4>
+<h3> Author</h3>
 
 Ankush Kumar
 🎓 BCA Student – Haridwar University
@@ -78,7 +78,7 @@ Ankush Kumar
 ] (replace with your actual email if you want)
 
 
-<h4> Suggestions & Feedback</h4>
+<h3> Suggestions & Feedback</h3>
 
 Feedback and suggestions are always welcome!
 If you have any ideas to improve this project, feel free to contribute or reach out.
